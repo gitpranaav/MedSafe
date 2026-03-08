@@ -1,0 +1,6 @@
+streamlit
+pillow
+pytesseract
+rapidfuzz
+groq
+python-dotenv
