@@ -1,4 +1,4 @@
-# MedSafe AI
+# MedSafe AI - Submission for SmartBridge Course 
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://medisafe.streamlit.app/)
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
